@@ -46,16 +46,6 @@ font-family: sans-serif;
     // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'database_name_here' );
-/** MySQL database username */
-define( 'DB_USER', 'username_here' );
-/** MySQL database password */
-define( 'DB_PASSWORD', 'password_here' );
-/** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
-    define( 'WP_HOME', 'http://ermiasyosief.com' );
-define( 'WP_SITEURL', 'http://ermiasyosief.com' );
-
     <h1 style="color:#FFFFFF">About Me</h1>
     <p style="color:#FFFFFF; font-size:21px;">My name is Ermias Yosief. I'm from Leicester and originally from Eritrea. I'm currently studying Beng software engineering at the University of Edinburgh. I play sports. when I was in high school I was the captain of the basketball team and football wise we won county league and I became the supporters of best player of that year then later on Nike acadamy called me and invited me for trails but I didnt go to the trails because when I was playing in the league I used to get on the openents nerves, also thats what my coach was telling me and they broke my leg. In school I was always good at maths I even had the chance to go to Exeter mathematics school. </p>
 
