@@ -1,6 +1,6 @@
 # ermiasyosief.github.io
 
-<!DOCTYPE html>
+
 <html>
 <body style= "background-color:#000000; ">
 	<!-- Title and description ================================================== -->
