@@ -19,7 +19,6 @@ background-size: cover;
 font-family: sans-serif;
 }
 
-
 </style>
     <style>
         #para1 {
@@ -80,10 +79,6 @@ define( 'WP_SITEURL', 'http://ermiasyosief.com' );
 </video>  
     </body>
 <footer>
-width : 100%;
-text-align : left OR right OR center;
-display : block;
-margin-top : 20px;
     <p id="para1": style="color:#FFFFFF": > &copy; 2022 Ermias Yosief. All rights reserved.</p>
 </footer>
 </body>
