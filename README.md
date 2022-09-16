@@ -28,7 +28,7 @@ font-family: sans-serif;
         text-align: center;
     </style>
 
-    <meta property="og:url" content="https://ermiasyosief.io/"/>
+    
 
     <ul>
         <li><a href="default.asp">Home</a></li>
@@ -39,9 +39,9 @@ font-family: sans-serif;
 
     </ul>
 
-    <meta property="og:title" content="William Lin"/>
+    
 
-<meta property="og:url" content="https://williamlin.io/"/>
+
 
 
     <h1 style="color:#FFFFFF">About Me</h1>
